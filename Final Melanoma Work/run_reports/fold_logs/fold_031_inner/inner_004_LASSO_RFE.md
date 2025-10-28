@@ -1,0 +1,18 @@
+# Bootstrap 4 - LASSO_RFE
+
+- **Outer Fold**: 31
+- **Bootstrap**: 4
+- **Method**: LASSO_RFE
+- **Fold Seed**: 75
+- **Features Selected**: 6
+
+## Selected Features
+
+| Feature |
+|---------|
+| Bcells CD27posIgDneg_total |
+| Bcells naive_total |
+| CD8 RA naive_CD3 |
+| CD8 RO intB7_CD3 |
+| CD8 RO TIGIT_CD3 |
+| NK Ki67_NK |

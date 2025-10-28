@@ -1,0 +1,24 @@
+# Bootstrap 7 - LASSO_Lenient
+
+- **Outer Fold**: 37
+- **Bootstrap**: 7
+- **Method**: LASSO_Lenient
+- **Fold Seed**: 84
+- **Features Selected**: 12
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memCCR6_total |
+| Tconv memCD56_total |
+| NKCD56hi_total |
+| Bcells memory_total |
+| Treg memory_CD3 |
+| Tconv memCCR6_mem |
+| Tconv memDR_mem |
+| CD8 RO intB7_CD8 |
+| intB7_CD8RO |
+| NKCD16_NK |
+| CD16mono_myeloid |
+| CD14+16+mono_myeloid |

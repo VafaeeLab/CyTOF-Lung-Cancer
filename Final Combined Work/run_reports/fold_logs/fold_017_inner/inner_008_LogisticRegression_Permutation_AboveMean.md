@@ -1,0 +1,14 @@
+# Bootstrap 8 - LogisticRegression_Permutation_AboveMean
+
+- **Outer Fold**: 17
+- **Bootstrap**: 8
+- **Method**: LogisticRegression_Permutation_AboveMean
+- **Fold Seed**: 65
+- **Features Selected**: 2
+
+## Selected Features
+
+| Feature |
+|---------|
+| Ki67_Bcells |
+| CD27_CD8RO |

@@ -1,0 +1,13 @@
+# Bootstrap 3 - LogisticRegression_Permutation_AboveMean
+
+- **Outer Fold**: 24
+- **Bootstrap**: 3
+- **Method**: LogisticRegression_Permutation_AboveMean
+- **Fold Seed**: 67
+- **Features Selected**: 1
+
+## Selected Features
+
+| Feature |
+|---------|
+| Ki67_Bcells |

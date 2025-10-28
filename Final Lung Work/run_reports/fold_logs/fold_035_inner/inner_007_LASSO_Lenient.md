@@ -1,0 +1,26 @@
+# Bootstrap 7 - LASSO_Lenient
+
+- **Outer Fold**: 35
+- **Bootstrap**: 7
+- **Method**: LASSO_Lenient
+- **Fold Seed**: 82
+- **Features Selected**: 14
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD4 Tconv_total |
+| Tconv memCD27_total |
+| CD4 Treg_total |
+| CD3hi_total |
+| Tconv memPD1_CD3 |
+| CD8 RA_CD3 |
+| CD8 RO CCR5_CD3 |
+| CD8 RO TIGIT_CD3 |
+| Tconv memCXCR3_Tconv |
+| CD8 RA CCR7 naive_CD8 |
+| CCR4_CD8RO |
+| Ki67_CD8RO |
+| TIGIT_CD8RO |
+| CD27IgD_Bcells |

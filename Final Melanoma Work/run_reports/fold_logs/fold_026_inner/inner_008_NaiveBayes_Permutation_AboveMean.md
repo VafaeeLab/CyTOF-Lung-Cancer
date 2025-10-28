@@ -1,0 +1,13 @@
+# Bootstrap 8 - NaiveBayes_Permutation_AboveMean
+
+- **Outer Fold**: 26
+- **Bootstrap**: 8
+- **Method**: NaiveBayes_Permutation_AboveMean
+- **Fold Seed**: 74
+- **Features Selected**: 1
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD8 RO CCR5_total |

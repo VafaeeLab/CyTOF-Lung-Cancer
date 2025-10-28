@@ -1,0 +1,25 @@
+# Bootstrap 2 - FDR (p < 0.01)
+
+- **Outer Fold**: 8
+- **Bootstrap**: 2
+- **Method**: FDR (p < 0.01)
+- **Fold Seed**: 50
+- **Features Selected**: 13
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv naive_total |
+| CD4 Tconv_CD3 |
+| CD4neg_CD3 |
+| CD8pos_CD3 |
+| CD8 RO_CD3 |
+| CD8 RO CCR6_CD3 |
+| CD8 RO CD27_CD3 |
+| CD8 RO DR_CD3 |
+| CD4 Treg_CD4 |
+| Treg memory_CD4 |
+| CD8 RA_CD8 |
+| CD8 RO_CD8 |
+| CD16mono_myeloid |

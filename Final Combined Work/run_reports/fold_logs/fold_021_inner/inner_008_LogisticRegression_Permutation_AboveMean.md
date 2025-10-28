@@ -1,0 +1,13 @@
+# Bootstrap 8 - LogisticRegression_Permutation_AboveMean
+
+- **Outer Fold**: 21
+- **Bootstrap**: 8
+- **Method**: LogisticRegression_Permutation_AboveMean
+- **Fold Seed**: 69
+- **Features Selected**: 1
+
+## Selected Features
+
+| Feature |
+|---------|
+| CXCR3_CD8RO |

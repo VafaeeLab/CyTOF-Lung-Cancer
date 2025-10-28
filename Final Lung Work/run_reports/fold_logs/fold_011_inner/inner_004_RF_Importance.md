@@ -1,0 +1,52 @@
+# Bootstrap 4 - RF_Importance
+
+- **Outer Fold**: 11
+- **Bootstrap**: 4
+- **Method**: RF_Importance
+- **Fold Seed**: 55
+- **Features Selected**: 40
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memCCR5_total |
+| Tconv memCXCR3_total |
+| Tconv memDR_total |
+| Tconv naive_total |
+| CD8pos_total |
+| CD8 RO CCR5_total |
+| NKCD56hi_total |
+| NK Ki67_total |
+| Bcells CD27posIgDneg_total |
+| CD4 Tconv_CD3 |
+| Tconv naive_CD3 |
+| CD4 Treg _CD3 |
+| CD8pos_CD3 |
+| CD8 RA_CD3 |
+| CD8 RA naive_CD3 |
+| CD8 RO CCR5_CD3 |
+| CD8 RO CXCR3_CD3 |
+| CD8  RO Ki67_CD3 |
+| CD8 RO TIGIT_CD3 |
+| CD4 Treg_CD4 |
+| Treg naive_CD4 |
+| Treg memory_CD4 |
+| Tconv mem_Tconv |
+| Tconv memCCR4_Tconv |
+| Tconv memCCR5_Tconv |
+| Tconv memCD56_Tconv |
+| Tconv memCXCR3_Tconv |
+| Tconv memintB7_Tconv |
+| Tconv memPD1_Tconv |
+| Tconv naive_Tconv |
+| Tconv memCCR5_mem |
+| Tconv memCXCR3_mem |
+| Tconv memTIGIT_mem |
+| CD8 RO CCR5_CD8 |
+| CCR4_CD8RO |
+| CXCR3_CD8RO |
+| NK_CD3neg |
+| NKCD56hi_NK |
+| CD27IgD_Bcells |
+| CD27negIgDneg_Bcells |

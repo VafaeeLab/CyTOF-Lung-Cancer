@@ -1,0 +1,34 @@
+# Bootstrap 3 - ElasticNet_RFE
+
+- **Outer Fold**: 14
+- **Bootstrap**: 3
+- **Method**: ElasticNet_RFE
+- **Fold Seed**: 57
+- **Features Selected**: 22
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3hi_total |
+| NKCD56hi_total |
+| Bcells CD27negIgDneg_total |
+| Bcells Ki67_total |
+| Tconv memCXCR3_CD3 |
+| Tconv memintB7_CD3 |
+| CD8pos_CD3 |
+| CD8 RA_CD3 |
+| CD8 RO CCR6_CD3 |
+| CD8 RO CD56_CD3 |
+| CD8 RO DR_CD3 |
+| Tconv mem_Tconv |
+| Tconv memintB7_Tconv |
+| Tconv memCCR4_mem |
+| Tconv memCCR5_mem |
+| Tconv memCD27_mem |
+| Tconv memKi67_mem |
+| Tconv memTIGIT_mem |
+| CD8 RO CD56_CD8 |
+| CD27_CD8RO |
+| DR_CD8RO |
+| NKCD16_NK |

@@ -1,0 +1,14 @@
+# Bootstrap 9 - XGBoost_Permutation_AboveMean
+
+- **Outer Fold**: 21
+- **Bootstrap**: 9
+- **Method**: XGBoost_Permutation_AboveMean
+- **Fold Seed**: 70
+- **Features Selected**: 2
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD16mono_CD3neg |
+| CD8 RO CCR5_CD3 |

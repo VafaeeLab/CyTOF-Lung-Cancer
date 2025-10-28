@@ -1,0 +1,31 @@
+# Bootstrap 6 - ElasticNet_Lenient
+
+- **Outer Fold**: 14
+- **Bootstrap**: 6
+- **Method**: ElasticNet_Lenient
+- **Fold Seed**: 60
+- **Features Selected**: 19
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3hi_total |
+| CD8 RO intB7_total |
+| CD8 RO PD1_total |
+| NKCD56hi_total |
+| Bcells CD27negIgDneg_total |
+| Bcells memory_total |
+| Tconv memCCR6_CD3 |
+| Tconv memDR_CD3 |
+| CD8pos_CD3 |
+| CD8 RO CD56_CD3 |
+| CD8 RO DR_CD3 |
+| Tconv memDR_Tconv |
+| CD3hi_CD4neg |
+| CD27_CD8RO |
+| DR_CD8RO |
+| CD16mono_CD3neg |
+| NKCD56hi_NK |
+| CD16mono_myeloid |
+| Ki67_Bcells |

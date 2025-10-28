@@ -1,0 +1,20 @@
+# Bootstrap 9 - ElasticNet_Lenient
+
+- **Outer Fold**: 27
+- **Bootstrap**: 9
+- **Method**: ElasticNet_Lenient
+- **Fold Seed**: 76
+- **Features Selected**: 8
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD8pos_total |
+| CD8 RO TIGIT_total |
+| Tconv memCXCR3_Tconv |
+| Tconv memCXCR3_mem |
+| CD8 RO CCR5_CD8 |
+| CCR4_CD8RO |
+| DR_CD8RO |
+| CD16mono_CD3neg |

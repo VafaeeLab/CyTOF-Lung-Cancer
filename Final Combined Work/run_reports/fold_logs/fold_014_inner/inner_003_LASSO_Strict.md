@@ -1,0 +1,21 @@
+# Bootstrap 3 - LASSO_Strict
+
+- **Outer Fold**: 14
+- **Bootstrap**: 3
+- **Method**: LASSO_Strict
+- **Fold Seed**: 57
+- **Features Selected**: 9
+
+## Selected Features
+
+| Feature |
+|---------|
+| NKCD56hi_total |
+| Bcells CD27negIgDneg_total |
+| Tconv memCXCR3_CD3 |
+| CD8 RA_CD3 |
+| CD8 RO CCR6_CD3 |
+| Tconv memCCR4_mem |
+| Tconv memCCR5_mem |
+| Tconv memKi67_mem |
+| DR_CD8RO |

@@ -1,0 +1,28 @@
+# Bootstrap 9 - NaiveBayes_Permutation_Top10%
+
+- **Outer Fold**: 36
+- **Bootstrap**: 9
+- **Method**: NaiveBayes_Permutation_Top10%
+- **Fold Seed**: 85
+- **Features Selected**: 16
+
+## Selected Features
+
+| Feature |
+|---------|
+| Ki67_Bcells |
+| NK_total |
+| NKCD16_total |
+| CD27negIgDneg_Bcells |
+| Bcells CD27posIgDneg_total |
+| Bcells naive_total |
+| Bcells_total |
+| Bcells CD27negIgDneg_total |
+| Bcells Ki67_total |
+| CD8 RA CCR7 naive_CD8 |
+| Bcells Ki67_CD3neg |
+| Bcells_CD3neg |
+| Bcells naive_CD3neg |
+| nonTnonB_CD3neg |
+| CD8 RO CD56_total |
+| CD8 RO intB7_CD3 |

@@ -1,0 +1,41 @@
+# Bootstrap 1 - FDR (p < 0.1)
+
+- **Outer Fold**: 2
+- **Bootstrap**: 1
+- **Method**: FDR (p < 0.1)
+- **Fold Seed**: 43
+- **Features Selected**: 29
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD8 RA_total |
+| CD8 RA naive_total |
+| nonTnonB_total |
+| NK Ki67_total |
+| Bcells_total |
+| Bcells CD27posIgDneg_total |
+| Bcells naive_total |
+| CD8 RA_CD3 |
+| CD8 RA naive_CD3 |
+| CD8 RO DR_CD3 |
+| CD8 RO intB7_CD3 |
+| Tconv memDR_Tconv |
+| Tconv memDR_mem |
+| CD8 RA_CD8 |
+| CD8 RA CCR7 naive_CD8 |
+| CD8 RO_CD8 |
+| CD8 RO CD27_CD8 |
+| CD8 RO DR_CD8 |
+| DR_CD8RO |
+| nonTnonB_CD3neg |
+| NK Ki67_CD3neg |
+| myeloid_CD3neg |
+| Bcells_CD3neg |
+| Bcells memory_CD3neg |
+| Bcells naive_CD3neg |
+| NK Ki67_nonTnonB |
+| CD27negIgDneg_Bcells |
+| Ki67_Bcells |
+| naive_Bcells |

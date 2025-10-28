@@ -1,0 +1,14 @@
+# Bootstrap 9 - LogisticRegression_Permutation_AboveMean
+
+- **Outer Fold**: 22
+- **Bootstrap**: 9
+- **Method**: LogisticRegression_Permutation_AboveMean
+- **Fold Seed**: 71
+- **Features Selected**: 2
+
+## Selected Features
+
+| Feature |
+|---------|
+| Bcells memory_total |
+| Bcells CD27posIgDneg_total |

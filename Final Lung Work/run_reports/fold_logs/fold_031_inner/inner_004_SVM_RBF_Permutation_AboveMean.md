@@ -1,0 +1,14 @@
+# Bootstrap 4 - SVM_RBF_Permutation_AboveMean
+
+- **Outer Fold**: 31
+- **Bootstrap**: 4
+- **Method**: SVM_RBF_Permutation_AboveMean
+- **Fold Seed**: 75
+- **Features Selected**: 2
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD16mono_myeloid |
+| CD14mono_myeloid |

@@ -1,0 +1,14 @@
+# Bootstrap 4 - XGBoost_Permutation_AboveMean
+
+- **Outer Fold**: 4
+- **Bootstrap**: 4
+- **Method**: XGBoost_Permutation_AboveMean
+- **Fold Seed**: 48
+- **Features Selected**: 2
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memDR_CD3 |
+| Bcells naive_total |

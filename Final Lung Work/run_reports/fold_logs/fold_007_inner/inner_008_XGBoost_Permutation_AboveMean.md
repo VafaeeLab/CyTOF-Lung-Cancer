@@ -1,0 +1,13 @@
+# Bootstrap 8 - XGBoost_Permutation_AboveMean
+
+- **Outer Fold**: 7
+- **Bootstrap**: 8
+- **Method**: XGBoost_Permutation_AboveMean
+- **Fold Seed**: 55
+- **Features Selected**: 1
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memCD56_CD3 |

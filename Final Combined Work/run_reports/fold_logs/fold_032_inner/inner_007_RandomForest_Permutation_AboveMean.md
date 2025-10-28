@@ -1,0 +1,22 @@
+# Bootstrap 7 - RandomForest_Permutation_AboveMean
+
+- **Outer Fold**: 32
+- **Bootstrap**: 7
+- **Method**: RandomForest_Permutation_AboveMean
+- **Fold Seed**: 79
+- **Features Selected**: 10
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memCCR6_total |
+| Tconv memPD1_total |
+| CD8 RA_total |
+| Tconv memTIGIT_Tconv |
+| Tconv memCD27_Tconv |
+| CD16+mono_total |
+| CD8 RA_CD3 |
+| NK_CD3neg |
+| NKCD56hi_NK |
+| Treg naive_CD4 |

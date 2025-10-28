@@ -1,0 +1,54 @@
+# Bootstrap 1 - FDR (p < 0.05)
+
+- **Outer Fold**: 38
+- **Bootstrap**: 1
+- **Method**: FDR (p < 0.05)
+- **Fold Seed**: 79
+- **Features Selected**: 42
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3pos_total |
+| Tconv memCCR5_total |
+| Tconv memPD1_total |
+| Tconv memTIGIT_total |
+| CD4 Treg_total |
+| Treg naive_total |
+| CD8pos_total |
+| CD8 RA_total |
+| CD8 RO_total |
+| CD8 RO CCR4_total |
+| CD8 RO CCR5_total |
+| CD8 RO CCR6_total |
+| CD8 RO CD56_total |
+| CD8 RO PD1_total |
+| CD3neg_total |
+| nonTnonB_total |
+| myeloid_total |
+| CD14mono_total |
+| CD14+16+mono_total |
+| Bcells_total |
+| Bcells CD27posIgDneg_total |
+| Bcells naive_total |
+| CD8 RO CCR5_CD3 |
+| Tconv memCCR5_mem |
+| Tconv memintB7_mem |
+| Tconv memPD1_mem |
+| CD3hi_CD4neg |
+| CD8 RO CCR5_CD8 |
+| CCR5_CD8RO |
+| Ki67_CD8RO |
+| nonTnonB_CD3neg |
+| myeloid_CD3neg |
+| CD14mono_CD3neg |
+| CD14+16+mono_CD3neg |
+| Bcells_CD3neg |
+| Bcells naive_CD3neg |
+| NK_nonTnonB |
+| NKCD16_nonTnonB |
+| CD16mono_myeloid |
+| CD14+16+mono_myeloid |
+| CD27negIgDneg_Bcells |
+| naive_Bcells |

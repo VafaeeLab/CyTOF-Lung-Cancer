@@ -1,0 +1,24 @@
+# Bootstrap 9 - ElasticNet_Strict
+
+- **Outer Fold**: 14
+- **Bootstrap**: 9
+- **Method**: ElasticNet_Strict
+- **Fold Seed**: 63
+- **Features Selected**: 12
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3hi_total |
+| CD8 RA_total |
+| Bcells Ki67_total |
+| Tconv memDR_CD3 |
+| CD8pos_CD3 |
+| CD8 RO CXCR3_CD3 |
+| Tconv memCCR5_mem |
+| Tconv memCD27_mem |
+| Tconv memCXCR3_mem |
+| CD8 RO CD56_CD8 |
+| CD8 RO DR_CD8 |
+| CD14mono_myeloid |

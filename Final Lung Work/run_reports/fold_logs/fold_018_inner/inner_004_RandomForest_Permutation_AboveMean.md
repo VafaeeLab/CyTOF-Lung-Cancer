@@ -1,0 +1,21 @@
+# Bootstrap 4 - RandomForest_Permutation_AboveMean
+
+- **Outer Fold**: 18
+- **Bootstrap**: 4
+- **Method**: RandomForest_Permutation_AboveMean
+- **Fold Seed**: 62
+- **Features Selected**: 9
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memCCR4_total |
+| CD8 RA_total |
+| CD8 RO CD56_total |
+| CD8 RO CXCR3_total |
+| CD3hi_CD3 |
+| Bcells_total |
+| Tconv memCD27_mem |
+| CD8 RA naive_CD3 |
+| Tconv memDR_mem |

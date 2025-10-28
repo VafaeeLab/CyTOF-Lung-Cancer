@@ -1,0 +1,32 @@
+# Bootstrap 9 - ElasticNet_Lenient
+
+- **Outer Fold**: 4
+- **Bootstrap**: 9
+- **Method**: ElasticNet_Lenient
+- **Fold Seed**: 53
+- **Features Selected**: 20
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3pos_total |
+| CD4 Tconv_total |
+| Tconv naive_total |
+| CD3neg_total |
+| CD16+mono_total |
+| Bcells CD27posIgDneg_total |
+| Tconv memCXCR3_CD3 |
+| CD4neg_CD3 |
+| CD4 Treg_CD4 |
+| Treg naive_CD4 |
+| Tconv memCXCR3_Tconv |
+| Tconv memDR_Tconv |
+| CD8 RA CCR7 naive_CD8 |
+| CD8 ncytotox RO CCR4_CD8ntox |
+| CCR4_CD8RO |
+| CCR6_CD8RO |
+| DR_CD8RO |
+| CD14mono_myeloid |
+| CD27negIgDneg_Bcells |
+| memory_Bcells |

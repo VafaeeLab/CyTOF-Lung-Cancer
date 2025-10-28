@@ -1,0 +1,29 @@
+# Bootstrap 3 - LASSO_RFE
+
+- **Outer Fold**: 33
+- **Bootstrap**: 3
+- **Method**: LASSO_RFE
+- **Fold Seed**: 76
+- **Features Selected**: 17
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3hi_total |
+| NKCD56hi_total |
+| Bcells CD27posIgDneg_total |
+| Bcells CD27negIgDneg_total |
+| Bcells memory_total |
+| CD4 Treg _CD3 |
+| CD8pos_CD3 |
+| CD8 RO PD1_CD3 |
+| Tconv memCD27_mem |
+| Tconv memTIGIT_mem |
+| CD8 RO CXCR3_CD8 |
+| CD8 RO DR_CD8 |
+| CCR6_CD8RO |
+| CD16mono_CD3neg |
+| NKCD56hi_nonTnonB |
+| NKCD16_NK |
+| memory_Bcells |

@@ -1,0 +1,20 @@
+# Bootstrap 10 - NaiveBayes_Permutation_AboveMean
+
+- **Outer Fold**: 31
+- **Bootstrap**: 10
+- **Method**: NaiveBayes_Permutation_AboveMean
+- **Fold Seed**: 81
+- **Features Selected**: 8
+
+## Selected Features
+
+| Feature |
+|---------|
+| Bcells naive_CD3neg |
+| nonTnonB_CD3neg |
+| Bcells_CD3neg |
+| Tconv naive_CD3 |
+| Tconv naive_total |
+| CD8 RO PD1_CD3 |
+| myeloid_CD3neg |
+| CD8 RO DR_CD3 |

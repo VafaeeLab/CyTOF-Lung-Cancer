@@ -1,0 +1,29 @@
+# Bootstrap 5 - NaiveBayes_Permutation_AboveMean
+
+- **Outer Fold**: 39
+- **Bootstrap**: 5
+- **Method**: NaiveBayes_Permutation_AboveMean
+- **Fold Seed**: 84
+- **Features Selected**: 17
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD8 RO DR_CD3 |
+| CD8 RO DR_total |
+| CD8 RO CCR6_CD3 |
+| CD3hi_total |
+| CD8  RO Ki67_CD3 |
+| CD3hi_CD3 |
+| CD8 RO CD56_total |
+| NK Ki67_total |
+| CD8 RO CD56_CD3 |
+| CD8 RO Ki67_total |
+| CD8 RO intB7_CD3 |
+| NKCD16_total |
+| CD8 RO CCR5_CD3 |
+| CD8 RO_CD3 |
+| NK_total |
+| CD8 RO CCR6_total |
+| DR_CD8RO |

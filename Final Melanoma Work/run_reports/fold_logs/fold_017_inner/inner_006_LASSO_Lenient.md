@@ -1,0 +1,18 @@
+# Bootstrap 6 - LASSO_Lenient
+
+- **Outer Fold**: 17
+- **Bootstrap**: 6
+- **Method**: LASSO_Lenient
+- **Fold Seed**: 63
+- **Features Selected**: 6
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD14+16+mono_total |
+| Bcells_total |
+| Bcells CD27posIgDneg_total |
+| Tconv mem_Tconv |
+| CD8 RO intB7_CD8 |
+| TIGIT_CD8RO |

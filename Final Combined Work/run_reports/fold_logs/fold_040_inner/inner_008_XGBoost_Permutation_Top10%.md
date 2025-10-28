@@ -1,0 +1,28 @@
+# Bootstrap 8 - XGBoost_Permutation_Top10%
+
+- **Outer Fold**: 40
+- **Bootstrap**: 8
+- **Method**: XGBoost_Permutation_Top10%
+- **Fold Seed**: 88
+- **Features Selected**: 16
+
+## Selected Features
+
+| Feature |
+|---------|
+| CD3pos_total |
+| Tconv memintB7_CD3 |
+| NKCD16_NK |
+| nonTnonB_CD3neg |
+| CD8 RO PD1_CD3 |
+| CD4 Tconv_total |
+| Tconv memCD27_total |
+| Tconv memCD56_total |
+| Tconv memCXCR3_total |
+| Tconv memDR_total |
+| Tconv memintB7_total |
+| Tconv memKi67_total |
+| Tconv memPD1_total |
+| Tconv memTIGIT_total |
+| Tconv naive_total |
+| CD4 Treg_total |

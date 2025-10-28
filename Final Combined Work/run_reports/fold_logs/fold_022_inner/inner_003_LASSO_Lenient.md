@@ -1,0 +1,28 @@
+# Bootstrap 3 - LASSO_Lenient
+
+- **Outer Fold**: 22
+- **Bootstrap**: 3
+- **Method**: LASSO_Lenient
+- **Fold Seed**: 65
+- **Features Selected**: 16
+
+## Selected Features
+
+| Feature |
+|---------|
+| Tconv memCD56_total |
+| Treg naive_total |
+| Treg memory_total |
+| CD3hi_total |
+| CD8 RO CCR5_total |
+| Bcells CD27posIgDneg_total |
+| Treg memory_CD3 |
+| Tconv memCCR6_mem |
+| CD8 RO DR_CD8 |
+| DR_CD8RO |
+| NK Ki67_nonTnonB |
+| CD16mono_myeloid |
+| CD14+16+mono_myeloid |
+| CD27IgD_Bcells |
+| Ki67_Bcells |
+| memory_Bcells |
